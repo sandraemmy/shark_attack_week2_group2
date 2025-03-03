@@ -1,7 +1,7 @@
 # shark_attack_week2_group2:  Building a Shark Attack Resistant Swimsuit Business
 
 
-# Dataset and Hypothesis
+### Dataset and Hypothesis
 
 . Dataset: The dataset contains historical records of shark attack incidents, including details such as date, year, type of attack, country, state, location, activity, species involved, sex, age of the victim, and the outcome of the attack.
 . Hypothesis: Shark attacks are influenced by factors such as age, activity type, and location. Designing swimsuits targeting high-risk demographics and activities could reduce risks.
